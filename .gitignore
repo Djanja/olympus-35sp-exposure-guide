@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+*.suo
+*.user
+
+# Logs
+*.log
+
+# Design source files (не нужны на GitHub Pages)
+project/
+olympus_35sp.pdf
